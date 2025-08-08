@@ -80,6 +80,7 @@ const (
 	KES = "KES"
 	KGS = "KGS"
 	KHR = "KHR"
+	KID = "KID"
 	KMF = "KMF"
 	KPW = "KPW"
 	KRW = "KRW"

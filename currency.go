@@ -124,6 +124,7 @@ var currencies = Currencies{
 	KES: {Decimal: ".", Thousand: ",", Code: KES, Fraction: 2, NumericCode: "404", Grapheme: "KSh", Template: "$1"},
 	KGS: {Decimal: ".", Thousand: ",", Code: KGS, Fraction: 2, NumericCode: "417", Grapheme: "\u0441\u043e\u043c", Template: "1 $"},
 	KHR: {Decimal: ".", Thousand: ",", Code: KHR, Fraction: 2, NumericCode: "116", Grapheme: "\u17db", Template: "$1"},
+	KID: {Decimal: ".", Thousand: ",", Code: KID, Fraction: 2, NumericCode: "036", Grapheme: "$", Template: "$1"},
 	KMF: {Decimal: ".", Thousand: ",", Code: KMF, Fraction: 0, NumericCode: "174", Grapheme: "CF", Template: "$1"},
 	KPW: {Decimal: ".", Thousand: ",", Code: KPW, Fraction: 2, NumericCode: "408", Grapheme: "\u20a9", Template: "$1"},
 	KRW: {Decimal: ".", Thousand: ",", Code: KRW, Fraction: 0, NumericCode: "410", Grapheme: "\u20a9", Template: "$1"},
